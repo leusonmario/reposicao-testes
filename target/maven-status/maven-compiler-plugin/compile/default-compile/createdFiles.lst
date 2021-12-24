@@ -1,0 +1,7 @@
+edu\uni\alu\Aluno.class
+edu\uni\bib\Livro.class
+edu\uni\curso\Nota.class
+edu\uni\bib\Bibliografia.class
+edu\uni\ger\Gerencia.class
+edu\uni\prof\Professor.class
+edu\uni\curso\Disciplina.class

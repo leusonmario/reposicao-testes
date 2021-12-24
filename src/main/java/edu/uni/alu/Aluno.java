@@ -9,7 +9,7 @@ public class Aluno {
     this.id = id;
   }
 
-  public String getNome() {
+  public String getNome(Aluno aluno) {
     return nome;
   }
 
